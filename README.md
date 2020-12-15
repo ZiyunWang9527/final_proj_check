@@ -9,3 +9,5 @@ The user could repeat Step 2 and Step 3 on Flask and choose the scent type repea
 
 Required Python packages for my project to work: 
 requests, flask, plotly, sqlite3, bs4, numpy
+
+The user doesn't need to run the files “final_proj_1.py” and “final_proj_2.py” since they are used for scraping pages and building database respectively.
